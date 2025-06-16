@@ -1,0 +1,142 @@
+Restore Archived Project report for solver
+Thu Sep  5 04:31:18 2024
+Quartus Prime Version 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Sep  5 04:31:18 2024 ;
+; Revision Name                   ; solver                                ;
+; Top-level Entity Name           ; top                                   ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/muhammadfarhan/Desktop/submittable_proje_1/solver_FARHAN.qar' into the 'C:/Users/muhammadfarhan/Desktop/submittable_proje_1/solver_FARHAN_restored/' directory
+Info: Generated report 'solver.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/23.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 69 warnings
+    Info: Peak virtual memory: 4831 megabytes
+    Info: Processing ended: Thu Sep  5 04:31:18 2024
+    Info: Elapsed time: 00:00:10
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++----------------+
+; Files Restored ;
++----------------+
+; File Name      ;
++----------------+
+
+
++-------------------------------------------------------------------------------------------+
+; Files Not Restored                                                                        ;
++-------------------------------------------------------------------------------------------+
+; File Name                                                                                 ;
++-------------------------------------------------------------------------------------------+
+; qar_info.json                                                                             ;
+; assignment_defaults.qdf                                                                   ;
+; hex_displays.v                                                                            ;
+; monitor.v                                                                                 ;
+; solver.qpf                                                                                ;
+; solver.qsf                                                                                ;
+; solver.qsys                                                                               ;
+; solver.sopcinfo                                                                           ;
+; solver/solver.cmp                                                                         ;
+; solver/synthesis/solver.debuginfo                                                         ;
+; solver/synthesis/solver.qip                                                               ;
+; solver/synthesis/solver.regmap                                                            ;
+; solver/synthesis/solver.v                                                                 ;
+; solver/synthesis/submodules/altera_avalon_sc_fifo.v                                       ;
+; solver/synthesis/submodules/altera_avalon_st_pipeline_base.v                              ;
+; solver/synthesis/submodules/altera_merlin_arbitrator.sv                                   ;
+; solver/synthesis/submodules/altera_merlin_burst_uncompressor.sv                           ;
+; solver/synthesis/submodules/altera_merlin_master_agent.sv                                 ;
+; solver/synthesis/submodules/altera_merlin_master_translator.sv                            ;
+; solver/synthesis/submodules/altera_merlin_reorder_memory.sv                               ;
+; solver/synthesis/submodules/altera_merlin_slave_agent.sv                                  ;
+; solver/synthesis/submodules/altera_merlin_slave_translator.sv                             ;
+; solver/synthesis/submodules/altera_merlin_traffic_limiter.sv                              ;
+; solver/synthesis/submodules/altera_nios2_gen2_rtl_module.ocp                              ;
+; solver/synthesis/submodules/altera_nios2_gen2_rtl_module.sv                               ;
+; solver/synthesis/submodules/altera_reset_controller.sdc                                   ;
+; solver/synthesis/submodules/altera_reset_controller.v                                     ;
+; solver/synthesis/submodules/altera_reset_synchronizer.v                                   ;
+; solver/synthesis/submodules/solver_cpu.v                                                  ;
+; solver/synthesis/submodules/solver_cpu_cpu.sdc                                            ;
+; solver/synthesis/submodules/solver_cpu_cpu.v                                              ;
+; solver/synthesis/submodules/solver_cpu_cpu_bht_ram.mif                                    ;
+; solver/synthesis/submodules/solver_cpu_cpu_dc_tag_ram.mif                                 ;
+; solver/synthesis/submodules/solver_cpu_cpu_debug_slave_sysclk.v                           ;
+; solver/synthesis/submodules/solver_cpu_cpu_debug_slave_tck.v                              ;
+; solver/synthesis/submodules/solver_cpu_cpu_debug_slave_wrapper.v                          ;
+; solver/synthesis/submodules/solver_cpu_cpu_ic_tag_ram.mif                                 ;
+; solver/synthesis/submodules/solver_cpu_cpu_ociram_default_contents.mif                    ;
+; solver/synthesis/submodules/solver_cpu_cpu_rf_ram_a.mif                                   ;
+; solver/synthesis/submodules/solver_cpu_cpu_rf_ram_b.mif                                   ;
+; solver/synthesis/submodules/solver_cpu_cpu_test_bench.v                                   ;
+; solver/synthesis/submodules/solver_done_pio.v                                             ;
+; solver/synthesis/submodules/solver_irq_mapper.sv                                          ;
+; solver/synthesis/submodules/solver_jtag_uart.v                                            ;
+; solver/synthesis/submodules/solver_mm_interconnect_0.v                                    ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_avalon_st_adapter.v                  ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_cmd_demux.sv                         ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_cmd_demux_001.sv                     ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_cmd_mux.sv                           ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_cmd_mux_002.sv                       ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_router.sv                            ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_router_001.sv                        ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_router_002.sv                        ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_router_004.sv                        ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_rsp_demux.sv                         ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_rsp_demux_002.sv                     ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_rsp_mux.sv                           ;
+; solver/synthesis/submodules/solver_mm_interconnect_0_rsp_mux_001.sv                       ;
+; solver/synthesis/submodules/solver_onchip_RAM.hex                                         ;
+; solver/synthesis/submodules/solver_onchip_RAM.v                                           ;
+; solver/synthesis/submodules/solver_result_pio.v                                           ;
+; solver/synthesis/submodules/solver_start_pio.v                                            ;
+; solver/synthesis/submodules/solver_sys_clk_timer.v                                        ;
+; solver/synthesis/submodules/solver_sysid.v                                                ;
+; solver/synthesis/submodules/solver_x_pio.v                                                ;
+; top.sdc                                                                                   ;
+; top.v                                                                                     ;
++-------------------------------------------------------------------------------------------+
+
+

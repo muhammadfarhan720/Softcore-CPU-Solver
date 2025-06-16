@@ -1,0 +1,8 @@
+
+State Machine - |top|monitor:u1|state
+Name state.sWAIT2 state.sWAIT1 state.sSTART state.sIDLE state.sDONE 
+state.sIDLE 0 0 0 0 0 
+state.sSTART 0 0 1 1 0 
+state.sWAIT1 0 1 0 1 0 
+state.sWAIT2 1 0 0 1 0 
+state.sDONE 0 0 0 1 1 
