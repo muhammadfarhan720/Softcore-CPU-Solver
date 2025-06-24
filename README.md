@@ -25,10 +25,10 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
     
 - The SystemC code is used to assign identifiers (i.e start, done, clk, reset, result) (to the following I/O registers with memory-mapped addresses :
 
---> X_PIO_BASE
--->	START_PIO_BASE
--->	RESULT_PIO_BASE
---> DONE_PIO_BASE
+- **`X_PIO_BASE`**  
+- **`START_PIO_BASE`**  
+- **`RESULT_PIO_BASE`**  
+- **`DONE_PIO_BASE`**
 
 - The SystemC code also programs the CPU (PS) side to perform operations in the following sequential manner :
 
