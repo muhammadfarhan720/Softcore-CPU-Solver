@@ -57,7 +57,7 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 - **Click the following thumbnail to see explanation of NIOS II architecture and I/O programming**  
 
 [![Nios II Explanation Thumbnail](https://github.com/muhammadfarhan720/Softcore-CPU-Solver/blob/main/images/NIOS_II_explain.jpg)](https://drive.google.com/file/d/1OivlKEcWBMbtK8nlybsaeRTyZyXZcWzh/view?usp=sharing)
-
+*Click the thumbnail to view the NIOS II architecture explanation*
 
 
 
@@ -67,3 +67,11 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 
 
 [![RTL Explanation Thumbnail](https://raw.githubusercontent.com/muhammadfarhan720/Softcore-CPU-Solver/main/images/RTL_explain_PL.jpg)](https://drive.google.com/file/d/1d1RwWHCYOZGS5YGcJ9evYmTbsL30fEU4/view?usp=sharing)
+*Click the thumbnail to view the RTL design walkthrough*
+
+## SystemC programming (Video)
+
+- **Click the following thumbnail to see explanation of SystemC programming for assigning identifiers and programming the NIOS II CPU (PS) side for Solver.v**
+  
+[![SystemC Design Thumbnail](https://raw.githubusercontent.com/muhammadfarhan720/Softcore-CPU-Solver/main/images/SystemC_thumbnail.jpg)](https://drive.google.com/file/d/1mL6lYVRg_LiCBrRMKqM5lRul_v_cRrq6/view?usp=sharing)  
+*Click the thumbnail to view the SystemC design walkthrough*
