@@ -75,3 +75,13 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
   
 [![SystemC Design Thumbnail](https://raw.githubusercontent.com/muhammadfarhan720/Softcore-CPU-Solver/main/images/SystemC_thumbnail.jpg)](https://drive.google.com/file/d/1mL6lYVRg_LiCBrRMKqM5lRul_v_cRrq6/view?usp=sharing)  
 *Click the thumbnail to view the SystemC design walkthrough*
+
+
+## FPGA Demo (Video)
+
+- **Click the following thumbnail to see the output verification from the on-board FPGA testing**
+
+[![FPGA Demo Thumbnail](https://raw.githubusercontent.com/muhammadfarhan720/Softcore-CPU-Solver/main/images/FPGA_demo_thumbnail.jpg)](https://drive.google.com/file/d/1PtyY5mfzT45mChBZDB1aFGSg6jqaw-t-/view?usp=sharing)  
+*Click the thumbnail to watch the FPGA hardware demonstration*
+
+
