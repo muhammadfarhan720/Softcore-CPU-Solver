@@ -52,7 +52,7 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 
 
 
-## NIOS II Architecture Explanation 
+## NIOS II Architecture Explanation (Video)
 
 - **Click the following thumbnail to see explanation of NIOS II architecture and I/O programming**  
 
@@ -61,7 +61,7 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 
 
 
-## FPGA (PL) side RTL explanation 
+## FPGA (PL) side RTL explanation (Video)
 
 - **Click the following thumbnail to see explanation of RTL programming from FPGA fabric (i.e FSM, hex_diplay and Top file glue logic)** 
 
