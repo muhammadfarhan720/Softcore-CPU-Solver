@@ -47,7 +47,7 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 
 - Import the archived project named solver_FARHAN to Quartus project archive opener
 - Upload the smaller_sereis.elf file to Platform IP designer to program the NIOS II CPU
-- Import the hello_world.c file to Eclipse platform to assign the CPU I/Os
+- Import the SystemC file (hello_world.c) file to Eclipse platform to assign the CPU I/Os
 - While programming the FPGA through JTAG, upload the solver_time_limited.sof file 
 
 
