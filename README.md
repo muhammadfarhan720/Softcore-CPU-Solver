@@ -56,4 +56,4 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 
 - **Click the following thumbnail to see explanation of NIOS II architecture and I/O programming**  
 
-[![Thumbnail for video demo](https://github.com/muhammadfarhan720/RISCV_32_RTL/blob/main/images/thumbnail.jpg)]([https://drive.google.com/file/d/1yRraBUmZkpqJb0yo4v_YvGIFItMjVyWn/view?usp=sharing](https://drive.google.com/file/d/1OivlKEcWBMbtK8nlybsaeRTyZyXZcWzh/view?usp=sharing))
+[![Nios II Explanation Thumbnail](https://github.com/muhammadfarhan720/Softcore-CPU-Solver/blob/main/images/NIOS_II_explain.jpg)](https://drive.google.com/file/d/1OivlKEcWBMbtK8nlybsaeRTyZyXZcWzh/view?usp=sharing)
