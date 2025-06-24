@@ -14,7 +14,7 @@ Hardware–software co‑design: a NIOS II soft‑core CPU (PS) running bare me
 
 # Brief Description : 
 
-This project uses the Cyclone V Altera FPGA to do complex computation of a maclaurin series term :  x - x²/2 + x³/3 - x⁴/4, for different ranges of x values from x=-.9 to x=+.9 using the following steps : 
+This project uses the Cyclone V Altera FPGA to do complex computation of a maclaurin series term : ** Result(x) = x - x²/2 + x³/3 - x⁴/4**, for different ranges of x values from x=-.9 to x=+.9 using the following steps : 
 
 - Program the NIOS II CPU (PS) side through a SystemC code and assign it's I/O ports to communicate with the FPGA (PL) side. It is designed through Quartus Platform Designer and IP integrator and named as Solver. A block view of the Solver IP is following :
 
