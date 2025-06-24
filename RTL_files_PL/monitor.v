@@ -1,5 +1,5 @@
 
-// MODIFIED FOR USE ON THE DE1-SOC BOARD.
+
 module monitor(
 	input             clk,
 	input             reset_n,
