@@ -1,0 +1,11 @@
+	component solver is
+		port (
+			clk_clk       : in  std_logic                     := 'X';             -- clk
+			done_export   : out std_logic;                                        -- export
+			reset_reset_n : in  std_logic                     := 'X';             -- reset_n
+			result_export : out std_logic_vector(31 downto 0);                    -- export
+			start_export  : in  std_logic                     := 'X';             -- export
+			x_export      : in  std_logic_vector(31 downto 0) := (others => 'X')  -- export
+		);
+	end component solver;
+
