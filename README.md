@@ -25,10 +25,10 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
     
 - The SystemC code is used to assign identifiers (i.e start, done, clk, reset, result) (to the following I/O registers with memory-mapped addresses :
 
-o	X_PIO_BASE
-o	START_PIO_BASE
-o	RESULT_PIO_BASE
-o	DONE_PIO_BASE
+1. **`X_PIO_BASE`**  
+2. **`START_PIO_BASE`**  
+3. **`RESULT_PIO_BASE`**  
+4. **`DONE_PIO_BASE`**
 
 - The SystemC code also programs the CPU (PS) side to perform operations in the following sequential manner :
 
@@ -56,4 +56,11 @@ o	DONE_PIO_BASE
 
 - **Click the following thumbnail to see explanation of NIOS II architecture and I/O programming**  
 
-[![Thumbnail for video demo](https://github.com/muhammadfarhan720/RISCV_32_RTL/blob/main/images/thumbnail.jpg)]([https://drive.google.com/file/d/1yRraBUmZkpqJb0yo4v_YvGIFItMjVyWn/view?usp=sharing](https://drive.google.com/file/d/1OivlKEcWBMbtK8nlybsaeRTyZyXZcWzh/view?usp=sharing))
+[![Nios II Explanation Thumbnail](https://github.com/muhammadfarhan720/Softcore-CPU-Solver/blob/main/images/NIOS_II_explain.jpg)](https://drive.google.com/file/d/1OivlKEcWBMbtK8nlybsaeRTyZyXZcWzh/view?usp=sharing)
+
+
+
+
+## FPGA (PL) side RTL explanation 
+
+- **Click the following thumbnail to see explanation of RTL programming from FPGA fabric (i.e FSM, hex_diplay and Top file glue logic)** 
