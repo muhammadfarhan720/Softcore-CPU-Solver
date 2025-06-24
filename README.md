@@ -64,3 +64,6 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 ## FPGA (PL) side RTL explanation 
 
 - **Click the following thumbnail to see explanation of RTL programming from FPGA fabric (i.e FSM, hex_diplay and Top file glue logic)** 
+
+
+[![RTL Explanation Thumbnail](https://raw.githubusercontent.com/muhammadfarhan720/Softcore-CPU-Solver/main/images/RTL_explain_PL.jpg)](https://drive.google.com/file/d/1d1RwWHCYOZGS5YGcJ9evYmTbsL30fEU4/view?usp=sharing)
