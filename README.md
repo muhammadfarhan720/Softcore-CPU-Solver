@@ -57,3 +57,10 @@ This project uses the Cyclone V Altera FPGA to do complex computation of a macla
 - **Click the following thumbnail to see explanation of NIOS II architecture and I/O programming**  
 
 [![Nios II Explanation Thumbnail](https://github.com/muhammadfarhan720/Softcore-CPU-Solver/blob/main/images/NIOS_II_explain.jpg)](https://drive.google.com/file/d/1OivlKEcWBMbtK8nlybsaeRTyZyXZcWzh/view?usp=sharing)
+
+
+
+
+## FPGA (PL) side RTL explanation 
+
+- **Click the following thumbnail to see explanation of RTL programming from FPGA fabric (i.e FSM, hex_diplay and Top file glue logic)** 
